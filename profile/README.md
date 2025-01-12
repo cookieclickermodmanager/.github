@@ -1,20 +1,20 @@
-# Cookie Clicker Mod Manager 🍪🛠️
+# Cookie Clicker Mod Manager
 
-Simplify and supercharge your Cookie Clicker experience with the ultimate mod management tool! 🚀 Effortlessly browse, install, and manage mods to customize your gameplay like never before.
+Simplify and supercharge your Cookie Clicker experience with the ultimate mod management tool! 🚀 Effortlessly browse, install, and manage mods to customize your gameplay like never before. 
 
 ---
 
 ## Table of Contents 🔄
 
-- [Features](#features)
-- [Why Choose Us?](#why-choose-us)
-- [Who Is It For?](#who-is-it-for)
-- [Links](#links)
-- [License](#license)
+- [Features](#features-)
+- [Why Choose Us?](#why-choose-us-)
+- [Who Is It For?](#who-is-it-for-)
+- [Links](#links-)
+- [License](#license-)
 
 ---
 
-## Features 🔍
+## Features 🛠️
 
 - 🛠️ **Mod Management**: Browse and install mods with just a few clicks.
 - 📂 **Organized Library**: Keep all your mods neatly organized in one place.
@@ -24,7 +24,7 @@ Simplify and supercharge your Cookie Clicker experience with the ultimate mod ma
 
 ---
 
-## Why Choose Us? 🤔
+## Why Choose Us? 🚀
 
 - 🚀 **Effortless Customization**: Transform your game without complicated setups.
 - 🔒 **Secure**: Verified mods and no intrusive permissions required.
@@ -32,7 +32,7 @@ Simplify and supercharge your Cookie Clicker experience with the ultimate mod ma
 
 ---
 
-## Who Is It For? 👥
+## Who Is It For? 🍪
 
 - 🍪 **Casual Players**: Explore fun mods to enhance your gameplay.
 - 🛠️ **Modding Enthusiasts**: Easily manage and experiment with different mods.
@@ -40,7 +40,7 @@ Simplify and supercharge your Cookie Clicker experience with the ultimate mod ma
 
 ---
 
-## Links 🌐
+## Links 🌟
 
 - 🌟 **Main Website**: [Cookie Clicker Mod Manager](https://cookieclickermodmanager.github.io/)
 - 🔗 **Chrome Extension**: [Install from Chrome Web Store](https://chromewebstore.google.com/detail/cookie-clicker-mod-manage/cfniajmhkhohganhekoilnmfdfjhnlbp)
